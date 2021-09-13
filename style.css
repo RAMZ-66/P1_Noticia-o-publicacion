@@ -1,0 +1,36 @@
+.page-title {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 55px;
+    color: rgb(76, 109, 199);
+    
+}
+
+.index {
+    font-family: Courier;
+}
+
+.article-title {
+    text-align: center;
+    font-family: Courier;
+    font-size: 35px;
+}
+
+main {
+    font-family: Courier;
+    text-align: center;
+}
+
+body{
+    background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ8NDQ0NFREWFhURFRUYHSggGBolGxUVITEhJSkrLi4uFx8zODM4NygtLisBCgoKDQ0NDw0NDisZFSUtKy0rNy00LystKyssKysrKy0rKzcvKysrKys3LSsrLSsrLSs3KystLS0rNysrKysrK//AABEIAKgBLAMBIgACEQEDEQH/xAAaAAEBAQEBAQEAAAAAAAAAAAABAgADBAUH/8QAHxABAQEAAgICAwAAAAAAAAAAAAERAqEUYVFSAwQS/8QAGAEBAQEBAQAAAAAAAAAAAAAAAgEAAwT/xAAcEQEBAQEAAgMAAAAAAAAAAAAAARECE1EDEiH/2gAMAwEAAhEDEQA/AP0hUEVHoebGi4mLiU5DFxMXBOKiomLiKqKiYqIyoRCjM1ZlGpTVVNKOdTUVVTSjnU1JqSgVqCCFlCGMxVExUEoYqNFQTjQthQsDYcbGbEheBhsRUropBYijFWMovEqCGC9UMXExUSnFRcTFQSVFRMXEVUVEwxGUQzIQzKNFRVVNKBU1FVU0o5VNSamnHOswZUVDExURoqKiYuDTioqCKg10kaQmFCwNhZmSKoVhsRRVUEFQ2GhReMxoReqGKgiolKGLiYqCUVFRMVEVUKYpmJDMjBmUKKmmppQKmpqqinHKpopqaUc6CDFExUTFxKUVFxPFfEa6RUXBFQK6RoSwlgZSVYCmiqNTUqqarnQCCF5IYxF6Y0VBFRCioYIqCZiomKiKYQWQsGZGBCwaKmmilHOpqaqppRzqalVGFHOwMWVDFQRcSrFRcTFwa6RUXExUCukUzMhMKalkoorUUhqaK1FWOdFDUELgWIvS0VBFRChhEVBKGGAopZmZSwZkYMyjRRSKQVNTVAo52JCmxQsThw42KONFxMVEWKi4mKg04uKiIZUOL1tTramLp0WjU2tg2m1NrWptIbWtTa1qbSjnadGi0auDqSxB6Y0UIqIcYxiJxizIpYMykMzIwIZKwIIKAoKFicZWNhDYnCcbFHGMZkQxUSWVWnUa2pi6vW1GjWxtXam1Oi1cHVWptTaLVwbTaLU2jSwLTaNGjVwddSxc3qjRUBE4xZkOFmYTZmDKQzIzMzKjMzKNjAlRsS2KxsULEtisZRxLFlRhrBROjRam1sTVaLU2i1cHVaNTqdXB1ei1Gi1cTVWjU6NLAtVo1OjVwde0sXB7JWIKHKxZhdIzMEOMzBCjMzIrEMzEgqNYtCo2BsU2KNicZWBQqQqiqFTU1VRSgUWptNRSgWtaLRam0sC06NTaNXB1WjU62riadGi0ao2nRo0auDr6ZBed7ZTCGE5SzBHSMzAXSMGCHCwZFJSWVUMEMZFQiKijWOMVCjBisFUagVdRSjnUVFXUcijnUVFXUU45VNRaqopQKKNaggOjRRaqabU61oXBtOjRoUdfXYF5XtlUwhQ5WZgjrKwYWi6RqABdIdYayEoxJjKuKiIuMiouJiow0loVGgVQqjU1FXU0o51zrnydK58jjlUVz5OnJz5HHKoqaqopxzoqaamkFahgo1ktRpBazBtYdfYZmeV74SzIcYMwusAoYXSCisyOsZmYShhjMyrioWZFRcZmGqhZlGkVmUaipoYo51HJz5MxxyrnyRyDOkcqipoYo5U8OH9G/g99Fh66sv468fHz1ztib+v76Hj++mYfv0Xh49Dx/fQ8a/PTMvk6G/Dx6bxr89N4t+3QZfJ17Twcen//2Q==);
+    background-size: cover;
+}
+
+.article-text {
+    
+}
+
+footer {
+    text-align: center;
+}
+
